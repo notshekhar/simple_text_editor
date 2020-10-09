@@ -1,0 +1,1 @@
+A Simple text editor that reads and writes to a local file
